@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @xingqy
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on everything for a freshman
+- 🌱 I’m currently learning machine learning
 - 📫 How to reach me xingqianyu330@gmail.com
 
 <!---
